@@ -1,2 +1,2 @@
 # QBPay
-QBPay
+QBPay framework
